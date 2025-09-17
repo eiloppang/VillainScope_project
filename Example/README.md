@@ -1,2 +1,4 @@
 # VillainScope Example
-This document shows part of VillainScope.
+This file shows part of VillainScope.
+
+![Draft of VillainScope](Image/example_novel.png)
