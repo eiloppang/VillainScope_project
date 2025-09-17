@@ -1,0 +1,38 @@
+{
+  "Villain_Characters": [
+    {
+      "Title": "Othello",
+      "Name": "Iago",
+      "Genre": "Shakespeare Dramas & Plays",
+      "Gender": "M",
+      "Age": 28,
+      "Appearance": {
+        "Skin_Color": "white",
+        "Race": "Venetian",
+        "Facial_Features": "Mustache",
+        "Hair": "brown, black",
+        "Distinctive_Feature": "pale"
+      },
+      "Personality": "Cleverness, Manipulative, highly intellectual, quick-witted, Narcissism, Considers oneself smarter than others, excessive pride and self-esteem, Motiveless malignity, Executes evil deeds perfectly without apparent reason, Tragedian in real life, Practicing tragedy in reality with originality, Lack of morality, Indifferent to moral good and evil, sees everything crookedly, views all humans equally, Speech patterns, Hesitant speech, starts and stops, echoes the end of others' sentences, skillfully combines similar vocabulary to induce outbursts of accumulated emotions, Dual nature, Ruthless, selfish, yet empathetic, popular among friends, instills trust in others, Insights, Penetrates thoughts, feelings, desires emerging from human inner self, exploits doubts, hatred, and solidifies the urge to kill, Machinations, Sexism, Racism, Cynicism.",
+      "Abilities": "NULL",
+      "Occupation": "Advisor"
+    },
+    {
+      "Title": "Richard III",
+      "Name": "Richard III",
+      "Source": "Shakespeare Dramas & Plays",
+      "Gender": "M",
+      "Age": 32,
+      "Appearance": {
+        "Skin_color": "white",
+        "Race": "Yorkists",
+        "Facial_Features": "blue eyes",
+        "Hair": "fair-haired",
+        "Distinctive_Feature": "hunch, limp, withered arm."
+      },
+      "Personality": "Extravagance, Excessive spending and wastefulness, Difficult temper, Quick to anger, prone to outbursts, Ignorance, Lacks awareness of the limits of their power, believes themselves invincible, disregards advice, becomes enraged at rightful criticism, Irresponsible, Acts without regard for consequences or duties, Self-indulgent, Overly lenient towards oneself, indulges in personal desires, Commits wrongdoing without dirtying their own hands.",
+      "Abilities": "NULL",
+      "Occupation": "King"
+    }
+  ]
+}
